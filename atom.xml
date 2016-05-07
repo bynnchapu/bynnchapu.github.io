@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tencho-lab diary]]></title>
+  <link href="http://bynnchapu.github.io/atom.xml" rel="self"/>
+  <link href="http://bynnchapu.github.io/"/>
+  <updated>2016-05-07T20:47:36+09:00</updated>
+  <id>http://bynnchapu.github.io/</id>
+  <author>
+    <name><![CDATA[Noriki Nakamura (a.k.a Tencho)]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Webサイトをリニューアルした]]></title>
+    <link href="http://bynnchapu.github.io/blog/2016/05/07/renewal-website/"/>
+    <updated>2016-05-07T20:44:38+09:00</updated>
+    <id>http://bynnchapu.github.io/blog/2016/05/07/renewal-website</id>
+    <content type="html"><![CDATA[<p>tencho-lab.net を Octpress を使ってリニューアルしてみました。</p>
+
+<p>今後のブログ記事はこっちのドメインの方で書いていくつもりです。
+続けばだけれども…</p>
+]]></content>
+  </entry>
+  
+</feed>
